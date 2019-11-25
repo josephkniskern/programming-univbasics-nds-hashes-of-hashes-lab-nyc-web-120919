@@ -31,8 +31,7 @@
 # }
 
 def naming_system
-  hash = {
-  
+
  
 
 end
