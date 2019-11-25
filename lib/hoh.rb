@@ -52,7 +52,7 @@ def naming_system
    }
  },
  
- PORTION_4 = {
+ species = {
    label: "Species",
    sub_category: nil
  }
