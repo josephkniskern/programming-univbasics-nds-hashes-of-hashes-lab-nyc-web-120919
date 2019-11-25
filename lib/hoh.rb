@@ -39,7 +39,11 @@ def naming_system
        label: "Class"
      }
    }
- }
+ },
+ 
+   portion_2 = {
+   label: "Order"
+ }  
  
 
 end
