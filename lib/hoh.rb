@@ -31,31 +31,7 @@
 # }
 
 def naming_system
-   kingdom = {
-   label: "Kingdom",
-  sub_category: {
-     label: "Phylum",
-     sub_category: {
-       label: "Class"
-     }
-   }
- },
- 
- order = {
-   label: "Order"
- },
- 
- family = {
-   label: "Family",
-   sub_category: {
-     label: "Genus",
-   }
- },
- 
- species = {
-   label: "Species",
-   sub_category: nil
- }
+  hash = {
   
   # Remember:
   #  Kingdom
