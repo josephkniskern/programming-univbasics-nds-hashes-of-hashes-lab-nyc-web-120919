@@ -41,9 +41,6 @@ def naming_system
    }
  },
  
-   portion_2 = {
-   label: "Order"
- }  
  
 
 end
